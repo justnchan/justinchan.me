@@ -14,7 +14,7 @@ body
   display: table;
   height: 100%;
   width: 100%;
-  background: url("http://i.imgur.com/z1viiVo.jpg") no-repeat center center fixed;
+  background: url("imgs/bg.jpg") no-repeat center center fixed;
   background-repeat: no-repeat;
   -webkit-background-size:cover;
   -moz-bakcground-size: cover;
